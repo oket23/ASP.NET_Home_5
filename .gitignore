@@ -1,0 +1,63 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## JetBrains Rider / IntelliJ
+.idea/
+*.sln.iml
+*.swp
+
+## Visual Studio Code
+.vscode/
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.tooling
+
+## OS generated files
+.DS_Store
+Thumbs.db
+
+## .NET Core specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Configuration files (Local settings)
+appsettings.Development.json
+
+## User Secrets (Sensitive data)
+secrets.json
+
+## Logs
+*.log
+
+## Database files (щоб випадково не залити файл локальної БД)
+*.mdf
+*.ldf
+*.db
+*.sqlite
+*.sqlite3
+
+## Test results (на майбутнє, коли будуть тести)
+TestResults/
+*.trx
+
+## Certificates (ніколи не заливай сертифікати!)
+*.pfx
+*.p12
+*.key
+
+## Rider / ReSharper personal settings (додатково до *.user)
+*.DotSettings.user
+*.DotSettings.user
