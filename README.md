@@ -1,4 +1,4 @@
-# 👥 Users & Subscriptions Management API (Clean Architecture)
+# Users & Subscriptions Management API (Clean Architecture)
 
 A structured, educational, and extensible ASP.NET Core Web API designed to manage users and their service subscriptions.
 
